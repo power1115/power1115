@@ -1,6 +1,6 @@
  ## <img src="https://github.com/extremecode716/extremecode716/blob/main/giphy.gif" width=60 height=60> Hello!
  
-I have more than 7 years of experience in developing and designing web, mobile applications. I love building fully responsive, fast, secure and SEO optimized websites, user friendly interfaces and overall beautiful applications.
+I have more than 6 years of experience in developing and designing web, mobile applications. I love building fully responsive, fast, secure and SEO optimized websites, user friendly interfaces and overall beautiful applications.
 
 
 ### 🤝Profile & Contact
