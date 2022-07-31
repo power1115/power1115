@@ -1,7 +1,8 @@
  <h3 align="center">
   Hi, there! Wellcome to my github 🙋‍♂️
  </h3> 
- <a href="https://app.daily.dev/power1115"><img src="https://api.daily.dev/devcards/f968be632939452bb9a1d65c8398da39.png?r=1fv" width="400" alt="Senior Full Stack Web, Mobile App Developer's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
 <h1>
   <div align="center">
     <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
