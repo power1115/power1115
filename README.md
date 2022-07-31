@@ -1,7 +1,7 @@
  <h3 align="center">
   Hi, there! Wellcome to my github 🙋‍♂️
  </h3> 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/power1115/power1115/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 <h1>
   <div align="center">
